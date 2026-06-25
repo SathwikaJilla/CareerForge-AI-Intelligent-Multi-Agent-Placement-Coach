@@ -200,9 +200,10 @@ This script can be used for a 3-minute video presentation of the agent:
 ---
 
 ## Assets
+## 1. Cover Page / Thumbnail Banner
 
-### 1. Cover Page / Thumbnail Banner
-![Cover Page Banner](file:///c:/Users/sathw/OneDrive/Desktop/adk-workspace/careerforge-ai/assets/cover_page_banner.png)
+![Cover Page Banner](assets/cover_page_banner.png)
 
-### 2. Workflow / Architecture Diagram
-![Architecture Diagram](file:///c:/Users/sathw/OneDrive/Desktop/adk-workspace/careerforge-ai/assets/architecture_diagram.png)
+## 2. Workflow / Architecture Diagram
+
+![Architecture Diagram](assets/architecture_diagram.png)
