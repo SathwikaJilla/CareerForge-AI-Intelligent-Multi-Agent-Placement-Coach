@@ -3,6 +3,14 @@
 CareerForge AI is an intelligent placement preparation platform built with Google ADK and Gemini. It helps students assess technical skills, check company eligibility, optimize profiles, and practice live mock interviews.
 
 ---
+## Assets
+## 1. Cover Page / Thumbnail Banner
+
+![Cover Page Banner](assets/cover_page_banner.png)
+
+## 2. Workflow / Architecture Diagram
+
+![Architecture Diagram](assets/architecture_diagram.png)
 
 ## Prerequisites
 
@@ -199,11 +207,3 @@ This script can be used for a 3-minute video presentation of the agent:
 
 ---
 
-## Assets
-## 1. Cover Page / Thumbnail Banner
-
-![Cover Page Banner](assets/cover_page_banner.png)
-
-## 2. Workflow / Architecture Diagram
-
-![Architecture Diagram](assets/architecture_diagram.png)
