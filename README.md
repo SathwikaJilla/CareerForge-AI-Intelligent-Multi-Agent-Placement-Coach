@@ -196,3 +196,13 @@ This script can be used for a 3-minute video presentation of the agent:
    .adk/
    ```
    ⚠️ Never push `.env` to GitHub as it exposes your Gemini API key publicly.
+
+---
+
+## Assets
+
+### 1. Cover Page / Thumbnail Banner
+![Cover Page Banner](file:///c:/Users/sathw/OneDrive/Desktop/adk-workspace/careerforge-ai/assets/cover_page_banner.png)
+
+### 2. Workflow / Architecture Diagram
+![Architecture Diagram](file:///c:/Users/sathw/OneDrive/Desktop/adk-workspace/careerforge-ai/assets/architecture_diagram.png)
