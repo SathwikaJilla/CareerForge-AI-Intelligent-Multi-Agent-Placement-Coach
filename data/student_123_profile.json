@@ -1,0 +1,12 @@
+{
+  "cgpa": 8.2,
+  "skills": [
+    "Java",
+    "Python",
+    "SQL"
+  ],
+  "projects": [
+    "CareerForge AI",
+    "Student Management System"
+  ]
+}
